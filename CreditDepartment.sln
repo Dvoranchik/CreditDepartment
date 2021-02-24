@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditDepartment", "CreditDepartment\CreditDepartment.csproj", "{1AD36DF8-0CEA-4801-87A1-15D01657D8F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditDepartmentBl", "CreditDepartmentBl\CreditDepartmentBl.csproj", "{413B81BC-D601-46BA-BD13-6CF64DEC90CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD36DF8-0CEA-4801-87A1-15D01657D8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD36DF8-0CEA-4801-87A1-15D01657D8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD36DF8-0CEA-4801-87A1-15D01657D8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD36DF8-0CEA-4801-87A1-15D01657D8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{413B81BC-D601-46BA-BD13-6CF64DEC90CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413B81BC-D601-46BA-BD13-6CF64DEC90CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413B81BC-D601-46BA-BD13-6CF64DEC90CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413B81BC-D601-46BA-BD13-6CF64DEC90CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8A42376-944A-44CA-B328-1F54914E1F79}
+	EndGlobalSection
+EndGlobal
